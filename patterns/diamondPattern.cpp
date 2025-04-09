@@ -16,7 +16,6 @@ int main() {
         }
         cout << endl;
     }
-
     // Lower part
     for(int i = rows-1; i >= 1; i--) {
         for(space = 1; space <= rows-i; space++) {
